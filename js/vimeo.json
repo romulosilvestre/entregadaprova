@@ -1,0 +1,23 @@
+{
+    "type": "video",
+    "version": "1.0",
+    "provider_name": "Vimeo",
+    "provider_url": "https:\/\/vimeo.com\/",
+    "title": "Teaser Trilha de Transformac\u0327a\u0303o Digital V1",
+    "author_name": "Unind\u00fastria",
+    "author_url": "https:\/\/vimeo.com\/unindustria",
+    "is_plus": "0",
+    "account_type": "live_premium",
+    "html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/589907288?h=d6c636a27f&amp;app_id=122963\" width=\"640\" height=\"360\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"Teaser Trilha de Transformac\u0327a\u0303o Digital V1\"><\/iframe>",
+    "width": 640,
+    "height": 360,
+    "duration": 69,
+    "description": "",
+    "thumbnail_url": "https:\/\/i.vimeocdn.com\/video\/1219926016-99956ab65fd448ba20432bf9a0a0755affe7e0d46a7eaa236549211e89446f1d-d_640",
+    "thumbnail_width": 640,
+    "thumbnail_height": 360,
+    "thumbnail_url_with_play_button": "https:\/\/i.vimeocdn.com\/filter\/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1219926016-99956ab65fd448ba20432bf9a0a0755affe7e0d46a7eaa236549211e89446f1d-d_640&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+    "upload_date": "2021-08-20 11:49:00",
+    "video_id": 589907288,
+    "uri": "\/videos\/589907288:d6c636a27f"
+}
