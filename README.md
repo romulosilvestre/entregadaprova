@@ -8,7 +8,7 @@ O projeto agora se encontra em seu estágio final e precisa ser entregue em até
 
 **TEMPO PARA DESENVOLVIMENTO** <br />
 6 dias<br />
-Serão considerados apenas *commits* realizados até as 12h do dia XX/XX/2022.<br /><br />
+Serão considerados apenas *commits* realizados até as 12h do dia 06/06/2022.<br /><br />
 
 
 **PREMISSAS TÉCNICAS**</br>
